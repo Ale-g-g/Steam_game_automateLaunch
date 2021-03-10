@@ -8,18 +8,18 @@ Normally my PowerPlan is Balanced, because I don´t do anything that need high p
 
 Every time I wanted to open CSGO, I had to follow this steps:
 
-    -Change PowerPlan to High Performance
-    -Change display configuration just to use only the External Monitor
-    -Open ThrottleStop (tiny program that force the CPU to work without throttling)
-    -Open NV-Inspector (tiny program which can be used to overclock the GPU)
-    -Open CSGO
+- Change PowerPlan to High Performance
+- Change display configuration just to use only the External Monitor
+- Open ThrottleStop (tiny program that force the CPU to work without throttling)
+- Open NV-Inspector (tiny program which can be used to overclock the GPU)
+- Open CSGO
     
 More than that, every time I stopped playing CSGO, I had to revert all steps :S
 
 So I created two .bat files, so I can click them an let the computer do all the work.
 
-    - CSGO.bat: It does all the steps written above
-    - StandardConfiguration.bat: Reverts all steps except closing CSGO.
+- CSGO.bat: It does all the steps written above
+- StandardConfiguration.bat: Reverts all steps except closing CSGO.
 
 In order to find your PowerPlan Ids, go to CMD and write:
 
